@@ -1,0 +1,20 @@
+* {
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+
+body {
+
+}
+
+main {
+    
+}
+
+.poster {
+    border: red solid;
+    background-image: url(bg-pattern-card.svg);
+}
+
+.bkg_poster {
+    position: absolute;
+}
